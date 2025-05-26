@@ -3,6 +3,8 @@ the MEX extension is a new extension and if you run all apps you can code a .MEX
 
 # instruction
 
+the logo needs to be in downloads and the executor needs to be on the desktop
+
 download all the files
 open the MAIA FILE!.vbs
 it will start the reg file (WARNING: DO NOT OPEN THE REGISTER-MEX.REG FILE OPEN THE MAIN FILE!.vbs)
