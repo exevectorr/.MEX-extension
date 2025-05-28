@@ -27,4 +27,5 @@ DO NOT OPEN IT its 100% malware
 
 # copyright (C)
 premition is here by granted to use the files 
-you are not allowed to edit, sel, share or do anything else with the files accept using or opening them 
+you are not allowed to edit, sel, share or to deal inside the files is strictly not alowed!
+
